@@ -1,1 +1,1 @@
-https://sampeterberg.github.io/CSS-PROJECT-BY-FREECODECAMP
+https://sampeterberg.github.io/CSS-TASK-1-BY-FREECODECAMP
